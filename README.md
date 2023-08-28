@@ -12,8 +12,8 @@ This repository contains a simple example of a message producer and consumer imp
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/rabbitmq-message-example.git
-   cd rabbitmq-message-example
+   git clone https://github.com/msyaifulislam99/tabist-test.git
+   cd tabist-test
    ```
 
 2. Install project dependencies:
